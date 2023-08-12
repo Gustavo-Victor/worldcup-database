@@ -27,7 +27,7 @@ Esse projeto serve para fins didáticos e é mais um desafio de um dos módulos 
 
 ## Pré-requisitos  
 
-Para consequir entender os códigos do projeto você precisa ter conhecimentos básicos de shell / bash scripting e também em SQL usando o SGBDR PostgreSQL. Além disso, para conseguir fazer a instalação e execução do projeto você precisa ter o [GIT](https://git-scm.com/) e o [PostgreSQL] instalado e configurado na sua máquina. Abaixo vão alguns links que podem ajudar na instalação e configuração do PostgreSQL na sua máquina 
+Para consequir entender os códigos do projeto você precisa ter conhecimentos básicos de shell / bash scripting e também em SQL usando o SGBDR PostgreSQL. Além disso, para conseguir fazer a instalação e execução do projeto você precisa ter o [GIT](https://git-scm.com/) e o PostgreSQL instalado e configurado na sua máquina. Abaixo vão alguns links que podem ajudar na instalação e configuração na sua máquina: 
 
 - [Instalação no Windows](https://www.devmedia.com.br/instalando-postgresql/23364)
 - [Instalação em distros Linux .deb](https://www.digitalocean.com/community/tutorials/how-to-install-postgresql-on-ubuntu-20-04-quickstart-pt)
