@@ -2,11 +2,11 @@
 
 ## Tabela de conteúdos
 
-* [Sobre](#Sobre)
-* [Tecnologias e ferramentas](#Tecnologias-e-ferramentas)
-* [Pré-requisitos](#Pré-requisitos)
-* [Instalação](#Instalação)
-* [Licença](#Licença)
+* [Sobre](#sobre)
+* [Tecnologias e ferramentas](#tecnologias-e-ferramentas)
+* [Pré-requisitos](#pré-requisitos)
+* [Instalação](#instalação)
+* [Licença](#licença)
 
 <hr/>
 
